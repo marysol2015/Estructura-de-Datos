@@ -1,0 +1,15 @@
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practico 3\Registo de Libros\obj\Debug\net10.0\Registo de Libros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practico 3\Registo de Libros\obj\Debug\net10.0\Registo de Libros.AssemblyInfoInputs.cache
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practico 3\Registo de Libros\obj\Debug\net10.0\Registo de Libros.AssemblyInfo.cs
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practico 3\Registo de Libros\obj\Debug\net10.0\Registo de Libros.csproj.CoreCompileInputs.cache
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practico 3\Registo de Libros\obj\Debug\net10.0\Registo de Libros.sourcelink.json
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practico 3\Registo de Libros\bin\Debug\net10.0\Registo de Libros.exe
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practico 3\Registo de Libros\bin\Debug\net10.0\Registo de Libros.deps.json
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practico 3\Registo de Libros\bin\Debug\net10.0\Registo de Libros.runtimeconfig.json
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practico 3\Registo de Libros\bin\Debug\net10.0\Registo de Libros.dll
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practico 3\Registo de Libros\bin\Debug\net10.0\Registo de Libros.pdb
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practico 3\Registo de Libros\obj\Debug\net10.0\Registo de Libros.dll
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practico 3\Registo de Libros\obj\Debug\net10.0\refint\Registo de Libros.dll
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practico 3\Registo de Libros\obj\Debug\net10.0\Registo de Libros.pdb
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practico 3\Registo de Libros\obj\Debug\net10.0\Registo de Libros.genruntimeconfig.cache
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practico 3\Registo de Libros\obj\Debug\net10.0\ref\Registo de Libros.dll
