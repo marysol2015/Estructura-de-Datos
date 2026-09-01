@@ -1,0 +1,15 @@
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practico 3\Premiacion deportistas\bin\Debug\net10.0\Premiacion deportistas.exe
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practico 3\Premiacion deportistas\bin\Debug\net10.0\Premiacion deportistas.deps.json
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practico 3\Premiacion deportistas\bin\Debug\net10.0\Premiacion deportistas.runtimeconfig.json
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practico 3\Premiacion deportistas\bin\Debug\net10.0\Premiacion deportistas.dll
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practico 3\Premiacion deportistas\bin\Debug\net10.0\Premiacion deportistas.pdb
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practico 3\Premiacion deportistas\obj\Debug\net10.0\Premiacion deportistas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practico 3\Premiacion deportistas\obj\Debug\net10.0\Premiacion deportistas.AssemblyInfoInputs.cache
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practico 3\Premiacion deportistas\obj\Debug\net10.0\Premiacion deportistas.AssemblyInfo.cs
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practico 3\Premiacion deportistas\obj\Debug\net10.0\Premiacion deportistas.csproj.CoreCompileInputs.cache
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practico 3\Premiacion deportistas\obj\Debug\net10.0\Premiacion deportistas.sourcelink.json
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practico 3\Premiacion deportistas\obj\Debug\net10.0\Premiacion deportistas.dll
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practico 3\Premiacion deportistas\obj\Debug\net10.0\refint\Premiacion deportistas.dll
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practico 3\Premiacion deportistas\obj\Debug\net10.0\Premiacion deportistas.pdb
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practico 3\Premiacion deportistas\obj\Debug\net10.0\Premiacion deportistas.genruntimeconfig.cache
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practico 3\Premiacion deportistas\obj\Debug\net10.0\ref\Premiacion deportistas.dll
