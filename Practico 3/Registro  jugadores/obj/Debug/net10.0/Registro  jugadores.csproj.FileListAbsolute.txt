@@ -1,0 +1,15 @@
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practico 3\Registro  jugadores\bin\Debug\net10.0\Registro  jugadores.exe
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practico 3\Registro  jugadores\bin\Debug\net10.0\Registro  jugadores.deps.json
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practico 3\Registro  jugadores\bin\Debug\net10.0\Registro  jugadores.runtimeconfig.json
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practico 3\Registro  jugadores\bin\Debug\net10.0\Registro  jugadores.dll
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practico 3\Registro  jugadores\bin\Debug\net10.0\Registro  jugadores.pdb
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practico 3\Registro  jugadores\obj\Debug\net10.0\Registro  jugadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practico 3\Registro  jugadores\obj\Debug\net10.0\Registro  jugadores.AssemblyInfoInputs.cache
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practico 3\Registro  jugadores\obj\Debug\net10.0\Registro  jugadores.AssemblyInfo.cs
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practico 3\Registro  jugadores\obj\Debug\net10.0\Registro  jugadores.csproj.CoreCompileInputs.cache
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practico 3\Registro  jugadores\obj\Debug\net10.0\Registro  jugadores.sourcelink.json
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practico 3\Registro  jugadores\obj\Debug\net10.0\Registro  jugadores.dll
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practico 3\Registro  jugadores\obj\Debug\net10.0\refint\Registro  jugadores.dll
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practico 3\Registro  jugadores\obj\Debug\net10.0\Registro  jugadores.pdb
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practico 3\Registro  jugadores\obj\Debug\net10.0\Registro  jugadores.genruntimeconfig.cache
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practico 3\Registro  jugadores\obj\Debug\net10.0\ref\Registro  jugadores.dll

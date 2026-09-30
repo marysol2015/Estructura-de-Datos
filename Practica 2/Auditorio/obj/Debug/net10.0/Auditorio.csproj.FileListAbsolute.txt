@@ -1,0 +1,30 @@
+c:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practica 2\Asignación de 100 asientos de auditorio\Auditorio\bin\Debug\net10.0\Auditorio.exe
+c:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practica 2\Asignación de 100 asientos de auditorio\Auditorio\bin\Debug\net10.0\Auditorio.deps.json
+c:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practica 2\Asignación de 100 asientos de auditorio\Auditorio\bin\Debug\net10.0\Auditorio.runtimeconfig.json
+c:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practica 2\Asignación de 100 asientos de auditorio\Auditorio\bin\Debug\net10.0\Auditorio.dll
+c:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practica 2\Asignación de 100 asientos de auditorio\Auditorio\bin\Debug\net10.0\Auditorio.pdb
+c:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practica 2\Asignación de 100 asientos de auditorio\Auditorio\obj\Debug\net10.0\Auditorio.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practica 2\Asignación de 100 asientos de auditorio\Auditorio\obj\Debug\net10.0\Auditorio.AssemblyInfoInputs.cache
+c:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practica 2\Asignación de 100 asientos de auditorio\Auditorio\obj\Debug\net10.0\Auditorio.AssemblyInfo.cs
+c:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practica 2\Asignación de 100 asientos de auditorio\Auditorio\obj\Debug\net10.0\Auditorio.csproj.CoreCompileInputs.cache
+c:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practica 2\Asignación de 100 asientos de auditorio\Auditorio\obj\Debug\net10.0\Auditorio.dll
+c:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practica 2\Asignación de 100 asientos de auditorio\Auditorio\obj\Debug\net10.0\refint\Auditorio.dll
+c:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practica 2\Asignación de 100 asientos de auditorio\Auditorio\obj\Debug\net10.0\Auditorio.pdb
+c:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practica 2\Asignación de 100 asientos de auditorio\Auditorio\obj\Debug\net10.0\Auditorio.genruntimeconfig.cache
+c:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practica 2\Asignación de 100 asientos de auditorio\Auditorio\obj\Debug\net10.0\ref\Auditorio.dll
+c:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practica 2\Asignación de 100 asientos de auditorio\Auditorio\obj\Debug\net10.0\Auditorio.sourcelink.json
+c:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practica 2\Auditorio\bin\Debug\net10.0\Auditorio.exe
+c:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practica 2\Auditorio\bin\Debug\net10.0\Auditorio.deps.json
+c:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practica 2\Auditorio\bin\Debug\net10.0\Auditorio.runtimeconfig.json
+c:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practica 2\Auditorio\bin\Debug\net10.0\Auditorio.dll
+c:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practica 2\Auditorio\bin\Debug\net10.0\Auditorio.pdb
+c:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practica 2\Auditorio\obj\Debug\net10.0\Auditorio.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practica 2\Auditorio\obj\Debug\net10.0\Auditorio.AssemblyInfoInputs.cache
+c:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practica 2\Auditorio\obj\Debug\net10.0\Auditorio.AssemblyInfo.cs
+c:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practica 2\Auditorio\obj\Debug\net10.0\Auditorio.csproj.CoreCompileInputs.cache
+c:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practica 2\Auditorio\obj\Debug\net10.0\Auditorio.sourcelink.json
+c:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practica 2\Auditorio\obj\Debug\net10.0\Auditorio.dll
+c:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practica 2\Auditorio\obj\Debug\net10.0\refint\Auditorio.dll
+c:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practica 2\Auditorio\obj\Debug\net10.0\Auditorio.pdb
+c:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practica 2\Auditorio\obj\Debug\net10.0\Auditorio.genruntimeconfig.cache
+c:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practica 2\Auditorio\obj\Debug\net10.0\ref\Auditorio.dll

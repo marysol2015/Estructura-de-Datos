@@ -1,0 +1,14 @@
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practica1\Agenda telefónica\bin\Debug\net10.0\Agenda telefónica.exe
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practica1\Agenda telefónica\bin\Debug\net10.0\Agenda telefónica.deps.json
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practica1\Agenda telefónica\bin\Debug\net10.0\Agenda telefónica.runtimeconfig.json
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practica1\Agenda telefónica\bin\Debug\net10.0\Agenda telefónica.dll
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practica1\Agenda telefónica\bin\Debug\net10.0\Agenda telefónica.pdb
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practica1\Agenda telefónica\obj\Debug\net10.0\Agenda telefónica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practica1\Agenda telefónica\obj\Debug\net10.0\Agenda telefónica.AssemblyInfoInputs.cache
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practica1\Agenda telefónica\obj\Debug\net10.0\Agenda telefónica.AssemblyInfo.cs
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practica1\Agenda telefónica\obj\Debug\net10.0\Agenda telefónica.csproj.CoreCompileInputs.cache
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practica1\Agenda telefónica\obj\Debug\net10.0\Agenda telefónica.dll
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practica1\Agenda telefónica\obj\Debug\net10.0\refint\Agenda telefónica.dll
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practica1\Agenda telefónica\obj\Debug\net10.0\Agenda telefónica.pdb
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practica1\Agenda telefónica\obj\Debug\net10.0\Agenda telefónica.genruntimeconfig.cache
+C:\Users\SONIA\Documents\ESTRUCTURA DE DATOS\Practica1\Agenda telefónica\obj\Debug\net10.0\ref\Agenda telefónica.dll
