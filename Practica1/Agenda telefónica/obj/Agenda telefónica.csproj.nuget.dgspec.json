@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SONIA\\Documents\\ESTRUCTURA DE DATOS\\Practica1\\Agenda telefónica\\Agenda telefónica.csproj": {}
+    "c:\\Users\\SONIA\\Documents\\ESTRUCTURA DE DATOS\\Practica 4\\PracticaArbolesBST\\Practica1\\Agenda telefónica\\Agenda telefónica.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SONIA\\Documents\\ESTRUCTURA DE DATOS\\Practica1\\Agenda telefónica\\Agenda telefónica.csproj": {
+    "c:\\Users\\SONIA\\Documents\\ESTRUCTURA DE DATOS\\Practica 4\\PracticaArbolesBST\\Practica1\\Agenda telefónica\\Agenda telefónica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SONIA\\Documents\\ESTRUCTURA DE DATOS\\Practica1\\Agenda telefónica\\Agenda telefónica.csproj",
+        "projectUniqueName": "c:\\Users\\SONIA\\Documents\\ESTRUCTURA DE DATOS\\Practica 4\\PracticaArbolesBST\\Practica1\\Agenda telefónica\\Agenda telefónica.csproj",
         "projectName": "Agenda telefónica",
-        "projectPath": "C:\\Users\\SONIA\\Documents\\ESTRUCTURA DE DATOS\\Practica1\\Agenda telefónica\\Agenda telefónica.csproj",
+        "projectPath": "c:\\Users\\SONIA\\Documents\\ESTRUCTURA DE DATOS\\Practica 4\\PracticaArbolesBST\\Practica1\\Agenda telefónica\\Agenda telefónica.csproj",
         "packagesPath": "C:\\Users\\SONIA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SONIA\\Documents\\ESTRUCTURA DE DATOS\\Practica1\\Agenda telefónica\\obj\\",
+        "outputPath": "c:\\Users\\SONIA\\Documents\\ESTRUCTURA DE DATOS\\Practica 4\\PracticaArbolesBST\\Practica1\\Agenda telefónica\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SONIA\\AppData\\Roaming\\NuGet\\NuGet.Config"
